@@ -47,7 +47,7 @@ markdown
 | 이름 | 역할 | GitHub |
 |---|---|---|
 | 홍길동 | Backend (로그인, 게시판 API) | [@아이디](https://github.com/아이디) |
-| 김영희 | Frontend (메인 페이지, UI) | [@아이디](https://github.com/아이디) |
+| 김태현| Frontend (메인 페이지, UI) | [@아이디](https://github.com/아이디) |
 
 ## 🛠 기술 스택
 - Language: 
